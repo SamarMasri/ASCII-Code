@@ -1,0 +1,27 @@
+ASCII Code
+
+ASCII, which stands for American Standard Code for Information Interchange, is a character encoding scheme that assigns a unique code to each character.
+
+The ASCII character set consists of 128 unique characters.
+
+These characters include uppercase and lowercase alphabets, numerals, punctuation marks, control characters, and special symbols such as currency signs.
+
+* Different ASCII Code Representations :
+
+1-Alphabets: The uppercase alphabets are represented by codes 65 to 90, while the lowercase alphabets are represented by codes 97 to 122.
+This allows computers to differentiate between uppercase and lowercase letters.
+EX: The letter 'A' is represented by 65.
+    The letter 'a' is represented by 97.
+
+
+2-Numbers: The numerical digits 0 to 9 are represented by codes 48 to 57. These codes enable the storage and processing of numeric data in computer systems.
+ EX: The number '1' is represented by 49.
+
+3-Symbols: ASCII codes include a wide range of symbols such as punctuation marks, currency signs, mathematical symbols, and more.
+EX: The exclamation mark is represented by  33, and the dollar sign is represented by 36.
+
+
+4-Control Characters: ASCII codes also include control characters that don’t have a visible representation but are used to control certain aspects of data transmission and processing.
+These control characters have codes ranging from 0 to 31, and 127.
+EX: Include the newline character (code 10) and the carriage return (code 13).
+
